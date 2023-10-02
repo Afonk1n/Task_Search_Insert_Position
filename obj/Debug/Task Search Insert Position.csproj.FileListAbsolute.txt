@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task Search Insert Position\bin\Debug\Task Search Insert Position.exe.config
+C:\Users\mafon\source\repos\Task Search Insert Position\bin\Debug\Task Search Insert Position.exe
+C:\Users\mafon\source\repos\Task Search Insert Position\bin\Debug\Task Search Insert Position.pdb
+C:\Users\mafon\source\repos\Task Search Insert Position\obj\Debug\Task Search Insert Position.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task Search Insert Position\obj\Debug\Task Search Insert Position.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task Search Insert Position\obj\Debug\Task Search Insert Position.exe
+C:\Users\mafon\source\repos\Task Search Insert Position\obj\Debug\Task Search Insert Position.pdb
